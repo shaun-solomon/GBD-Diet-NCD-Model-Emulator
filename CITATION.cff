@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this emulator, please cite it as below."
+title: "GBD Diet–NCD Model Emulator"
+type: software
+authors:
+  - family-names: Lord
+    given-names: Steven
+    affiliation: "Environmental Change Institute, University of Oxford"
+  - family-names: Solomon
+    given-names: Shaun
+    affiliation: "Environmental Change Institute, University of Oxford"
+  - family-names: Paulus
+    given-names: Estelle
+    affiliation: "Environmental Change Institute, University of Oxford"
+year: 2026
+repository-code: "URL forthcoming"
+license: "MIT" 

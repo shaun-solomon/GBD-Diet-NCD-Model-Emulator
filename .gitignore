@@ -1,0 +1,58 @@
+# =========================
+# IDE / editor files
+# =========================
+.spyproject/
+.vscode/
+.idea/
+
+# =========================
+# Python cache / build
+# =========================
+__pycache__/
+*.py[cod]
+
+# =========================
+# Virtual environments
+# =========================
+.env/
+.venv/
+env/
+venv/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# OS-generated files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Data & results (stored externally)
+# =========================
+Data/*
+!Data/**/.gitkeep
+
+# =========================
+# Temporary / intermediate outputs
+# =========================
+*.log
+*.tmp
+*.bak
+*.swp
+
+# =========================
+# Large scientific formats
+# =========================
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.nc
+*.zip
+*.tar
+*.gz
