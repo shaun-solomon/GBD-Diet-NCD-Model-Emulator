@@ -33,7 +33,8 @@ desktop.ini
 
 # =========================
 # Data & results (stored externally)
-Data/*
+Data/**
+!Data/**/
 !Data/.gitkeep
 !Data/**/.gitkeep
 
