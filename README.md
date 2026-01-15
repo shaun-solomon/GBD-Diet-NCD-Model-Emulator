@@ -1,7 +1,7 @@
 # GBD Diet-NCD Emulator (2017)
 ## Overview 
 
->A Python emulator of the Global Burden of Disease (GBD) 2017 Diet–NCD model for transparent, >reproducible analysis of diet-attributable disease burden, counterfactual scenarios, and marginal >effects.
+>A Python emulator of the Global Burden of Disease (GBD) 2017 Diet–NCD model for transparent, reproducible analysis of diet-attributable disease burden, counterfactual scenarios, and marginal effects.
 
 The **GBD Diet–NCD Model** (developed by IHME) quantifies the impact of suboptimal diets on non communicable disease (NCD) morbidity and mortality (1). This repository provides a Python implementation that **reproduces the core results of GBD 2017** and extends them to **scenario-based and marginal (partial derivative)** analyses. The emulator constructs **Population Attributable Fractions (PAFs)** for each dietary risk using (i) exposure distributions (means & standard deviations), (ii) **relative risks (RRs)** and **TMRELs** (Theoretical Minimum Risk Exposure Levels), and (iii) **disease burden inputs** (YLLs, YLDs) to derive **DALYs**.
 
