@@ -100,6 +100,8 @@ Results are written as CSV to Data/Predictions/ subfolders. Typical outputs incl
 
 This README provides a high-level overview. For detailed explanations of the emulator’s logic, workflows, and advanced configuration, refer to **README_extended.pdf**. Additionally, refer to the appendices for a comprehensive understanding of the model and its implementation.
 
+Detailed methodological documentation, including the description of the model, exposure reconstruction, comparative risk assessment formulae, and validation against GBD 2017 results, is available in the full technical documentation **GBD Emulator Model_Documentation.pdf** in the **Additional Information** folder in the root directory. 
+
 ## Contact 
 
 For questions regarding the emulator, or to request access to the private code repository and associated data, please contact:
