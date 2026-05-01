@@ -96,6 +96,16 @@ Results are written as CSV to Data/Predictions/ subfolders. Typical outputs incl
 - Scenario 2: DALY changes per risk (joint or non‑joint), with optional proportional joint decomposition to attribute the joint total to individual risks.
 - Scenario 3: Marginal DALY changes per risk (by age grouping), for each year and country under the selected SSP.
 
+## Training Sessions 
+
+Three training sessions are available to support use of the GBD Diet-NCD Model Emulator. Each session includes a recording and an associated slide deck. 
+
+| Session | Topic | Link |
+| --- | --- | --- |
+| Training Session 1 | Emulator overview, inputs, model structure, and validation | https://zenodo.org/records/19183127 |
+| Training Session 2 | Counterfactual Studies with the Emulator | https://zenodo.org/records/19847088 | 
+| Training Session 3 | Marginal Calculations in the GBD Diet-NCD Emulator | https://zenodo.org/records/19436460 |
+
 ## Note 
 
 This README provides a high-level overview. For detailed explanations of the emulator’s logic, workflows, and advanced configuration, refer to **README_extended.pdf**. Additionally, refer to the appendices for a comprehensive understanding of the model and its implementation.
